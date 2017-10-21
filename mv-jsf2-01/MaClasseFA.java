@@ -4,6 +4,6 @@ public class MaClasseFA {
 	
 	public void test(){
 		
-		System.out.println("test-sign");
+		System.out.println("test");
 	}
 }
